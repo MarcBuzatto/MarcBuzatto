@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Marc Buzatto — Desenvolvedor Full-Stack & IA">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16130D"/>
+      <stop offset="1" stop-color="#1B1813"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="8%" r="60%">
+      <stop offset="0" stop-color="#FFB020" stop-opacity="0.30"/>
+      <stop offset="55%" stop-color="#E8892B" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#E8892B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFB020"/>
+      <stop offset="1" stop-color="#E8892B"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#FFB020" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#FFB020" stroke-opacity="0.14"/>
+
+  <!-- accent tick -->
+  <rect x="72" y="96" width="4" height="108" rx="2" fill="url(#amber)"/>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="96" y="120" font-family="ui-monospace,'Cascadia Code',Consolas,monospace" font-size="17" letter-spacing="3" fill="#FFB020">&#62; PORTFÓLIO</text>
+    <text x="94" y="182" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#ECE6DA">Marc Buzatto</text>
+    <text x="96" y="224" font-size="25" font-weight="500" fill="#A39A88">Desenvolvedor <tspan fill="#FFB020" font-weight="600">Full-Stack &amp; IA</tspan></text>
+  </g>
+
+  <!-- tech chips -->
+  <g font-family="ui-monospace,'Cascadia Code',Consolas,monospace" font-size="14" fill="#ECE6DA">
+    <g>
+      <rect x="96" y="248" width="112" height="30" rx="8" fill="#211D16" stroke="#302A21"/>
+      <text x="152" y="268" text-anchor="middle">TypeScript</text>
+    </g>
+    <g>
+      <rect x="216" y="248" width="92" height="30" rx="8" fill="#211D16" stroke="#302A21"/>
+      <text x="262" y="268" text-anchor="middle">Next.js</text>
+    </g>
+    <g>
+      <rect x="316" y="248" width="92" height="30" rx="8" fill="#211D16" stroke="#302A21"/>
+      <text x="362" y="268" text-anchor="middle">NestJS</text>
+    </g>
+    <g>
+      <rect x="416" y="248" width="104" height="30" rx="8" fill="#211D16" stroke="#302A21"/>
+      <text x="468" y="268" text-anchor="middle">Supabase</text>
+    </g>
+    <g>
+      <rect x="528" y="248" width="84" height="30" rx="8" fill="#211D16" stroke="#302A21"/>
+      <text x="570" y="268" text-anchor="middle">Python</text>
+    </g>
+  </g>
+
+  <!-- decorative code bracket cluster on the right -->
+  <g transform="translate(980,150)" opacity="0.9">
+    <circle cx="0" cy="0" r="96" fill="none" stroke="#302A21" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="70" fill="none" stroke="#302A21" stroke-width="1.5"/>
+    <g font-family="ui-monospace,'Cascadia Code',Consolas,monospace" font-size="46" font-weight="700" fill="#FFB020" text-anchor="middle">
+      <text x="0" y="16">&#60;/&#62;</text>
+    </g>
+    <circle cx="0" cy="-96" r="4.5" fill="#FFB020"/>
+    <circle cx="70" cy="0" r="3.5" fill="#E8892B"/>
+    <circle cx="-70" cy="0" r="3.5" fill="#59E0C5"/>
+  </g>
+</svg>
