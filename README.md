@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Marc Buzatto — Desenvolvedor Full-Stack & IA" width="100%" />
+<img src="https://raw.githubusercontent.com/MarcBuzatto/MarcBuzatto/main/assets/banner.svg" alt="Marc Buzatto - Desenvolvedor Full-Stack e IA" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc%20Buzatto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-buzatto/)
 [![Email](https://img.shields.io/badge/Email-marcbuzatto@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcbuzatto@gmail.com)
@@ -79,7 +79,7 @@ Além do que está público, entrego software sob medida (código privado por co
 
 <div align="center">
 
-<img src="./assets/languages.svg" alt="Linguagens que mais uso" width="100%" />
+<img src="https://raw.githubusercontent.com/MarcBuzatto/MarcBuzatto/main/assets/languages.svg" alt="Linguagens que mais uso" width="100%" />
 
 <br /><br />
 
