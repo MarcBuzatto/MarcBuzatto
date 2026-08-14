@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Marc%20Buzatto&fontColor=ffffff&fontSize=54&desc=Desenvolvedor%20Full-Stack%20%26%20IA&descAlignY=62&descSize=20&animation=fadeIn" alt="Marc Buzatto" />
+<img src="./assets/banner.svg" alt="Marc Buzatto — Desenvolvedor Full-Stack & IA" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc%20Buzatto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-buzatto/)
 [![Email](https://img.shields.io/badge/Email-marcbuzatto@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcbuzatto@gmail.com)
@@ -79,8 +79,11 @@ Além do que está público, entrego software sob medida (código privado por co
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MarcBuzatto&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcBuzatto&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
+<img src="./assets/languages.svg" alt="Linguagens que mais uso" width="100%" />
+
+<br /><br />
+
+[![Ver todos os repositórios](https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-1B1813?style=for-the-badge&logo=github&logoColor=FFB020)](https://github.com/MarcBuzatto?tab=repositories)
 
 </div>
 
