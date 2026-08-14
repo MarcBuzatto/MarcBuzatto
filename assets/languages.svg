@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 176" width="1200" height="176" role="img" aria-label="Linguagens que mais uso">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16130D"/>
+      <stop offset="1" stop-color="#1B1813"/>
+    </linearGradient>
+    <clipPath id="round"><rect x="48" y="70" width="1104" height="28" rx="14"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="176" rx="18" fill="url(#bg2)"/>
+  <rect x="0.5" y="0.5" width="1199" height="175" rx="18" fill="none" stroke="#FFB020" stroke-opacity="0.14"/>
+
+  <text x="48" y="46" font-family="ui-monospace,'Cascadia Code',Consolas,monospace" font-size="16" letter-spacing="2.5" fill="#FFB020">&#62; LINGUAGENS QUE MAIS USO</text>
+
+  <g clip-path="url(#round)">
+    <rect x="48"   y="70" width="380" height="28" fill="#3178C6"/>
+    <rect x="428"  y="70" width="292" height="28" fill="#E8A13A"/>
+    <rect x="720"  y="70" width="178" height="28" fill="#4B8BBE"/>
+    <rect x="898"  y="70" width="130" height="28" fill="#8892BF"/>
+    <rect x="1028" y="70" width="124" height="28" fill="#E44D26"/>
+  </g>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#ECE6DA">
+    <g><circle cx="56"  cy="136" r="5" fill="#3178C6"/><text x="70"  y="141">TypeScript</text></g>
+    <g><circle cx="204" cy="136" r="5" fill="#E8A13A"/><text x="218" y="141">JavaScript</text></g>
+    <g><circle cx="352" cy="136" r="5" fill="#4B8BBE"/><text x="366" y="141">Python</text></g>
+    <g><circle cx="474" cy="136" r="5" fill="#8892BF"/><text x="488" y="141">PHP</text></g>
+    <g><circle cx="560" cy="136" r="5" fill="#E44D26"/><text x="574" y="141">HTML / CSS</text></g>
+  </g>
+</svg>
