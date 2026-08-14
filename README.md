@@ -58,6 +58,8 @@ Sou **desenvolvedor Full-Stack** com foco em **produtos web modernos** e **aplic
 | **🌐 CodeCraft** | Site institucional da minha marca — Lighthouse 95–100, bilíngue e dark mode. | React 19 · Vite 6 · Tailwind 4 | [Código](https://github.com/MarcBuzatto/codecraft) · [Demo](https://codecraft-six-amber.vercel.app) |
 | **🛡️ Bot Discord — Moderação & Economia** | Bot completo: moderação, economia, níveis, sorteios, anti-raid e tickets. | Python · discord.py | [Código](https://github.com/MarcBuzatto/BOT-DISCORD-MODERACAO-e-ECONOMIA) |
 
+> 📚 **Cada projeto tem um case study técnico completo** no meu [repositório de portfólio](https://github.com/MarcBuzatto/portfolio).
+
 ---
 
 ## 💼 Projetos para clientes
